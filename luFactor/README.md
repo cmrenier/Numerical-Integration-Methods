@@ -1,4 +1,4 @@
-LU Factorization
+# LU Factorization
 
 This algorithm was created to use partial pivoting to determine the LU factorization of a square matrix of any size.
 
