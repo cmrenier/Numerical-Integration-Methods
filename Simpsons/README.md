@@ -1,4 +1,4 @@
-Simpson's Method
+# Simpson's Method
 
 This algorithm was designed to integrate given experimental data using Simpson's 1/3 rule. It also checks for an odd number of intervals, and if this is the case, will automatically use the trapezoidal rule on the last interval.
 
