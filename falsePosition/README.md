@@ -1,4 +1,4 @@
-False Position Algorithm
+# False Position Algorithm
 
 This algorithm was designed to estimate the root of a given function using the false position method. 
 
